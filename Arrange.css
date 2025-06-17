@@ -1,0 +1,20 @@
+.HEAD {
+    text-align: center;
+    word-spacing: 50px;
+}
+.About , .Contact , .Study{
+border-left: 7px solid rgb(141, 141, 141);
+padding-left: 10px;
+}
+section{
+    float: left;
+}
+
+nav{
+    float: right;
+    width: 55%;
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+}
