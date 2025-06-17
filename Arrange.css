@@ -2,10 +2,12 @@
     text-align: center;
     word-spacing: 50px;
 }
+
 .About , .Contact , .Study{
-border-left: 7px solid rgb(141, 141, 141);
-padding-left: 10px;
+    border-left: 7px solid rgb(141, 141, 141);
+    padding-left: 10px;
 }
+
 section{
     float: left;
 }
@@ -15,6 +17,17 @@ nav{
     width: 55%;
     font-size: 20px;
 }
+
 h1{
     font-size: 50px;
+}
+
+p{
+    padding-top: 1;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
